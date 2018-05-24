@@ -1,0 +1,7 @@
+/storage/
+/vendor/
+/public/
+.env
+/public/yum/centos7/kubernetes/pool/fd5f5da2d1a262fa687404d34e72813520274364557e648bc64a8136f1a02630-rkt-1.25.0-1.x86_64.rpm
+/public/yum.tar.gz
+nohup.out
